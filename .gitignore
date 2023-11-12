@@ -2,3 +2,7 @@
 *.iml
 
 build
+
+.gradle
+
+allure-report
